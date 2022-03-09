@@ -763,7 +763,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
             InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
             ],[
-            InlineKeyboardButton('𝙹𝙾𝙸𝙽 𝙵𝙰𝚂𝚃..?', url='https://t.me/nl_movies')
+            InlineKeyboardButton('𝙹𝙾𝙸𝙽 𝙵𝙰𝚂𝚃..✔️', url='https://t.me/nl_movies')
             ],[
             InlineKeyboardButton('⚚ 𝙱𝙰𝙲𝙺 ⚚', callback_data='start')
         ]]
